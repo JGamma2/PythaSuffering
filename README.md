@@ -10,8 +10,10 @@ The 4th video shows the math behind the 3rd video, but is uneeded.<br>
 The 5th, 6th, and 7th videos are about GPTs, and is well beyond the scope of what we will be doing.<br>
 [CaryKH Evo Sim.](https://www.youtube.com/watch?v=GOFws_hhZs8)<br>
 This is the first in a series demoing the evo sim I would like to try to program.<br>
-To be clear, we need to import pytorch, but we will not be using it for anything other than the dataset. We do not need it.<br>
+[ML in 30 minutes](https://www.youtube.com/watch?v=w8yWXqWQYmU)<br>
+Brotha makes an ML in 30 minutes, quite informative and cool.<br>
 [Pytorch.](https://pytorch.org/get-started/locally/)<br>
+To be clear, we need to import pytorch, but we will not be using it for anything other than the dataset. We do not need it.<br>
 When you download pytorch, select cpu, and not one of the cuda options.<br>
 [MNIST Docs.](https://yann.lecun.com/exdb/mnist/)<br>
 Cool documentation on the data. IDK how it works.<br>
