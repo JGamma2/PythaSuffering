@@ -5,4 +5,7 @@ trainingSet = datasets.MNIST(root='./data', train=True, download=False, transfor
 print(testingSet)
 print(trainingSet)
 print(testingSet[0])
-print(trainingSet[0])
+print(trainingSet[0][0])
+pixelValues = list(trainingSet[0][0].getdata())
+print(pixelValues)
+print(len(pixelValues))
