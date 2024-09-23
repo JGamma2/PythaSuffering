@@ -64,5 +64,14 @@ def initialize4LayerNetwork():
     #We need to be able to save a network state so that we can use it later, already trained.
     #Like to a file, that we can access later.
 
+#The image taken should be a length 2 tuple. The first term should be a 784 pixel image array.
+def runNetwork(network, image, shouldFindCost = False, correctAnswer = None):
+    print(None)
+    
+
+
+
+
+
+
 network = initialize4LayerNetwork()
-print(network)
